@@ -76,7 +76,43 @@ Code:
 
 # Research direction 3: FAIR Microneurography and Open Science
 
-## odML-Tables as a Metadata Standard in Microneurography
+##  Analysis of the Research Infrastructure Needs in Emerging Interdisciplinary Consortia (2025)
+File: [Link](https://zenodo.org/records/16736006)
+
+License: Creative Commons Attribution 4.0 International
+
+Comment: NFDI4Health pilot project
+
+##  Harmonizing neuropathic pain research: outcomes of the London consensus meeting on peripheral tissue studies (2025)
+File: [Link](https://doi.org/10.1097/j.pain.0000000000003445)
+
+License:  CC-BY
+
+Comment:
+
+Abstract: Neuropathic pain remains difficult to treat, with drug development hampered by an incomplete understanding of the pathogenesis of the condition, as well as a lack of biomarkers. The problem is compounded by the scarcity of relevant human peripheral tissues, including skin, nerves, and dorsal root ganglia. Efforts to obtain such samples are accelerating, increasing the need for standardisation across laboratories. In this white paper, we report on a consensus meeting attended by neuropathic pain experts, designed to accelerate protocol alignment and harmonization of studies involving relevant peripheral tissues. The meeting was held in London in March 2024 and attended by 28 networking partners, including industry and patient representatives. We achieved consensus on minimal recommended phenotyping, harmonised wet laboratory protocols, statistical design, reporting, and data sharing. Here, we also share a variety of relevant standard operating procedures as supplementary protocols. We envision that our recommendations will help unify human tissue research in the field and accelerate our understanding of how abnormal interactions between sensory neurons and their local peripheral environment contribute towards neuropathic pain.
+
+Citation: Villa S, Aasvang EK, Attal N, Baron R, Bourinet E, Calvo M, Finnerup NB, Galosi E, Hockley JRF, Karlsson P, Kemp H, Körner J, Kutafina E, Lampert A, Mürk M, Nochi Z, Price TJ, Rice ASC, Sommer C, Taba P, Themistocleous AC, Treede RD, Truini A, Üçeyler N, Bennett DL, Schmid AB, Denk F. Harmonizing neuropathic pain research: outcomes of the London consensus meeting on peripheral tissue studies. Pain. 2025 May 1;166(5):994-1001. doi: 10.1097/j.pain.0000000000003445. Epub 2024 Oct 16. 
+
+
+## Semi-Automatic Export of Electrophysiological Metadata to NFDI4Health Local Data Hubs: Use Case of Microneurography odML-Tables - A Technical Case Report (2024)
+File: [Link](http://dx.doi.org/10.3233/SHTI240836)
+
+License: CC BY-NC 4.0
+
+Comment:
+
+Abstract: The Local Data Hub (LDH) is a platform for FAIR sharingof medical research (meta-)data. In order to promote the usage of LDH in differentresearch communities, it is important to understand the domain-specific needs,solutions currently used for data organization and provide support for seamlessuploads to a LDH. In this work, we analyze the use case of microneurography, whichis an electrophysiological technique for analyzing neural activity. Methods Afterperforming a requirements analysis in dialogue with microneurography researchers,we propose a concept-mapping and a workflow, for the researchers to transform andupload their metadata. Further, we implemented a semi-automatic upload extensionto odMLtables, a template-based tool for handling metadata in theelectrophysiological community. Results The open-source implementation enablesthe odML-to-LDH concept mapping, allows data anonymization from within thetool and the creation of custom-made summaries on the underlying data sets.Discussion This concludes a first step towards integrating improved FAIR processesinto the research laboratory’s daily workflow. In future work, we will extend thisapproach to other use cases to disseminate the usage of LDHs in a larger researchcommunity. 
+
+Citation: Elwes MR, Troglio A, Abedi M, Golebiewski M, Meineke F, Kirsten T, et al. Semi-Automatic Export of Electrophysiological Metadata to NFDI4Health Local Data Hubs: Use Case of Microneurography odML-Tables – A Technical Case Report. In: German Medical Data Sciences 2024 [Internet]. IOS Press; 2024 [cited 2024 Sep 10]. p. 40–8. 
+
+## openMNGlab
+
+
+
+Code: https://github.com/Digital-C-Fiber/openMNGlab 
+
+## odML-Tables as a Metadata Standard in Microneurography (2023)
 File: [Link](http://dx.doi.org/10.3233/SHTI230687)
 
 License: CC BY-NC 4.0
@@ -89,7 +125,7 @@ Citation: Troglio A, Nickerson A, Schlebusch F, Röhrig R, Dunham J, Namer B, et
 
 Code: [Link](https://github.com/Digital-C-Fiber/odMLtablesForMNG)
 
-## PyDapsys: an open-source library for accessing electrophysiology data recorded with DAPSYS
+## PyDapsys: an open-source library for accessing electrophysiology data recorded with DAPSYS (2023)
 File: [Link](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2023.1250260/full)
 
 License: 
@@ -102,14 +138,5 @@ Citation: Konradi P, Troglio A, Pérez Garriga A, Pérez Martín A, Röhrig R, N
 
 Code: [Link](https://github.com/Digital-C-Fiber/PyDapsys) 
 
-##
 
-
-
-##  Analysis of the Research Infrastructure Needs in Emerging Interdisciplinary Consortia
-File: [Link](https://zenodo.org/records/16736006)
-
-License: Creative Commons Attribution 4.0 International
-
-Comment: NFDI4Health pilot project
 
