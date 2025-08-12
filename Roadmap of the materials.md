@@ -139,8 +139,15 @@ Citation: Konradi P, Troglio A, Pérez Garriga A, Pérez Martín A, Röhrig R, N
 Code: [Link](https://github.com/Digital-C-Fiber/PyDapsys) 
 
 ## Measuring pain and nociception: Through the glasses of a computational scientist. Transdisciplinary overview of methods (2023)
-File: [Link]()
+File: [Link](https://www.frontiersin.org/journals/network-physiology/articles/10.3389/fnetp.2023.1099282/full)
 
+License: CC_BY 
+
+Comment:
+
+Abstract: In a healthy state, pain plays an important role in natural biofeedback loops and helps to detect and prevent potentially harmful stimuli and situations. However, pain can become chronic and as such a pathological condition, losing its informative and adaptive function. Efficient pain treatment remains a largely unmet clinical need. One promising route to improve the characterization of pain, and with that the potential for more effective pain therapies, is the integration of different data modalities through cutting edge computational methods. Using these methods, multiscale, complex, and network models of pain signaling can be created and utilized for the benefit of patients. Such models require collaborative work of experts from different research domains such as medicine, biology, physiology, psychology as well as mathematics and data science. Efficient work of collaborative teams requires developing of a common language and common level of understanding as a prerequisite. One of ways to meet this need is to provide easy to comprehend overviews of certain topics within the pain research domain. Here, we propose such an overview on the topic of pain assessment in humans for computational researchers. Quantifications related to pain are necessary for building computational models. However, as defined by the International Association of the Study of Pain (IASP), pain is a sensory and emotional experience and thus, it cannot be measured and quantified objectively. This results in a need for clear distinctions between nociception, pain and correlates of pain. Therefore, here we review methods to assess pain as a percept and nociception as a biological basis for this percept in humans, with the goal of creating a roadmap of modelling options.
+
+Citation: Kutafina E, Becker S and Namer B (2023) Measuring pain and nociception: Through the glasses of a computational scientist. Transdisciplinary overview of methods. Front. Netw. Physiol. 3:1099282. doi: 10.3389/fnetp.2023.1099282
 
 
 
