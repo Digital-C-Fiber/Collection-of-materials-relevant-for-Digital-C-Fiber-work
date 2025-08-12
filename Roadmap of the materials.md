@@ -1,3 +1,5 @@
+# Work under construction, more content is coming soon
+
 # Research direction 1: Computational modelling of activity-dependent speed propagation changes in C-fibers
 ## Decoding Neuropathic Pain: Can We Predict Fluctuations of Propagation Speed in Stimulated Peripheral Nerve?
 File: [Link](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2022.899584/full)
@@ -12,12 +14,24 @@ Citation: Kutafina E, Troglio A, de Col R, Röhrig R, Rossmanith P and Namer B (
 
 Code: TODO
 
+## Convolution model of activity-dependent speed propagation
+File: Coming soon
+
+License:
+
+Comment:
+
+Abstract:
+
+Citation: 
+
+# Research direction 2: Spike Detection and Sorting in Microneurography
 ## Supervised Spike Sorting Feasibility of Noisy Single-Electrode Extracellular Recordings: Systematic Study of Human C-Nociceptors recorded via Microneurography
 File: [Link](https://www.biorxiv.org/content/10.1101/2024.12.31.630860v1)
 
 License: CC-BY
 
-Comment:
+Comment: In this paper we present the first systematic analysis of 24 raw microneurography recordings from two labs (B. Namer, J. Dunham) and investigate the challenges of spike sorting. This is possible due to a new "ground truth protocol" used to produce time-locked spikes which serve as reliably labelled data and allow to compare and evaluate algorithms. Data show high variability, but the success potential of the sorting of the given file can be assessed and in the future serve as real-time experimental feedback for data quality.
 
 Abstract: Using electrophysiological methods like microneurography, scientists can record nerve activity in humans to understand how peripheral nerves transmit sensations such as pain and itch. These recordings capture electrical signals, known as spikes, which represent nerve impulses. However, since several nerve fibers are often recorded simultaneously, the differentiation of the individual spikes, known as spike sorting, is critical for accurate analysis.
 
@@ -31,7 +45,7 @@ bioRxiv 2024.12.31.630860; doi: https://doi.org/10.1101/2024.12.31.630860
 
 Code: [SpikeSortingPipeline](https://github.com/Digital-C-Fiber/SpikeSortingPipeline)
 
-## Convolution model of activity-dependent speed propagation
+## TODO: Troglio et al. 2025
 File: Coming soon
 
 License:
@@ -41,3 +55,19 @@ Comment:
 Abstract:
 
 Citation: 
+
+## TODO: Darabos et al. 2025
+File: Coming soon
+
+License:
+
+Comment:
+
+Abstract:
+
+Citation: 
+
+# Research direction 3: FAIR Microneurography and Open Science
+
+## odML-tables
+
