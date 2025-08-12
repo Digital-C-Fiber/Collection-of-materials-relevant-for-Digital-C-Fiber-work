@@ -138,5 +138,30 @@ Citation: Konradi P, Troglio A, Pérez Garriga A, Pérez Martín A, Röhrig R, N
 
 Code: [Link](https://github.com/Digital-C-Fiber/PyDapsys) 
 
+## Measuring pain and nociception: Through the glasses of a computational scientist. Transdisciplinary overview of methods (2023)
+File: [Link]()
+
+
+
+
+
+
+
+# Simulational modelling of C-fibers based on Hodgkin-Huxley approach
+
+## 
+##  Modeling activity-dependent changes of axonal spike conduction in primary afferent C-nociceptors (2014)
+File: [Link](https://pubmed.ncbi.nlm.nih.gov/24371290/)
+
+License:
+
+Comment: 
+
+Abstract: Action potential initiation and conduction along peripheral axons is a dynamic process that displays pronounced activity dependence. In patients with neuropathic pain, differences in the modulation of axonal conduction velocity by activity suggest that this property may provide insight into some of the pathomechanisms. To date, direct recordings of axonal membrane potential have been hampered by the small diameter of the fibers. We have therefore adopted an alternative approach to examine the basis of activity-dependent changes in axonal conduction by constructing a comprehensive mathematical model of human cutaneous C-fibers. Our model reproduced axonal spike propagation at a velocity of 0.69 m/s commensurate with recordings from human C-nociceptors. Activity-dependent slowing (ADS) of axonal propagation velocity was adequately simulated by the model. Interestingly, the property most readily associated with ADS was an increase in the concentration of intra-axonal sodium. This affected the driving potential of sodium currents, thereby producing latency changes comparable to those observed for experimental ADS. The model also adequately reproduced post-action potential excitability changes (i.e., recovery cycles) observed in vivo. We performed a series of control experiments replicating blockade of particular ion channels as well as changing temperature and extracellular ion concentrations. In the absence of direct experimental approaches, the model allows specific hypotheses to be formulated regarding the mechanisms underlying activity-dependent changes in C-fiber conduction. Because ADS might functionally act as a negative feedback to limit trains of nociceptor activity, we envisage that identifying its mechanisms may also direct efforts aimed at alleviating neuronal hyperexcitability in pain patients.
+
+Citation: Tigerholm J, Petersson ME, Obreja O, Lampert A, Carr R, Schmelz M, Fransén E. Modeling activity-dependent changes of axonal spike conduction in primary afferent C-nociceptors. J Neurophysiol. 2014 May;111(9):1721-35. doi: 10.1152/jn.00777.2012. Epub 2013 Dec 26. 
+
+
+
 
 
