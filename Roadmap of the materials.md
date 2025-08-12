@@ -45,6 +45,11 @@ bioRxiv 2024.12.31.630860; doi: https://doi.org/10.1101/2024.12.31.630860
 
 Code: [SpikeSortingPipeline](https://github.com/Digital-C-Fiber/SpikeSortingPipeline)
 
+## Advanced Spike Sorting on Microneurography Data: Proof-of-Concept of VPNet as a Universal Approach (poster)
+File: [Link](https://www.researchgate.net/publication/383943886_Advanced_Spike_Sorting_on_Microneurography_Data_Proof-of-Concept_of_VPNet_as_a_Universal_Approach?_sg%5B0%5D=Bl7xvKZcxFL-jp_s2ju3SveryWH7_fP3d6XZKJGQBxvBAJ56MrkJ_L224-jFCG7h1fUlAOdjIUrUoW3u5B41-C9nNCupYprzZfewm7wU.Wr9uoIKhgvX0_Ex4vgyBkeZQjwsnldg9-Ha1th9y01KjDqaQ0Pc2WG9v3xtDk0A3Tpm1QEoj0Cj-yiAFbTL9Pg&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19)
+
+Comment: A conference poster to present the first results of VPNet approach to spike sorting in Microneurography (GMDS 2024). In comparison to the SVM-based classification, the results were not much higher, but the VPNet approch was possible to use without calibratons on data set level. 
+
 ## TODO: Troglio et al. 2025
 File: Coming soon
 
@@ -67,7 +72,44 @@ Abstract:
 
 Citation: 
 
+Code:
+
 # Research direction 3: FAIR Microneurography and Open Science
 
-## odML-tables
+## odML-Tables as a Metadata Standard in Microneurography
+File: [Link](http://dx.doi.org/10.3233/SHTI230687)
+
+License: CC BY-NC 4.0
+
+Comment:
+
+Abstract: Metadata is essential for handling medical data according to FAIR principles. Standards are well-established for many types of electrophysiological methods but are still lacking for microneurographic recordings of peripheral sensory nerve fibers in humans. Developing a new concept to enhance laboratory workflows is a complex process. We propose a standard for structuring and storing microneurography metadata based on odML and odML-tables. Further, we present an extension to the odML-tables GUI that enables user-friendly search functionality of the database. With our open-source repository, we encourage other microneurography labs to incorporate odML-based metadata into their experimental routines.
+
+Citation: Troglio A, Nickerson A, Schlebusch F, Röhrig R, Dunham J, Namer B, et al. odML-Tables as713a Metadata Standard in Microneurography. Stud Health Technol Inform. 2023 Sep 12; 307:7143–11. 
+
+Code: [Link](https://github.com/Digital-C-Fiber/odMLtablesForMNG)
+
+## PyDapsys: an open-source library for accessing electrophysiology data recorded with DAPSYS
+File: [Link](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2023.1250260/full)
+
+License: 
+
+Comment: CC-BY
+
+Abstract: In the field of neuroscience, a considerable number of commercial data acquisition and processing solutions rely on proprietary formats for data storage. This often leads to data being locked up in formats that are only accessible by using the original software, which may lead to interoperability problems. In fact, even the loss of data access is possible if the software becomes unsupported, changed, or otherwise unavailable. To ensure FAIR data management, strategies should be established to enable long-term, independent, and unified access to data in proprietary formats. In this work, we demonstrate PyDapsys, a solution to gain open access to data that was acquired using the proprietary recording system DAPSYS. PyDapsys enables us to open the recorded files directly in Python and saves them as NIX files, commonly used for open research in the electrophysiology domain. Thus, PyDapsys secures efficient and open access to existing and prospective data. The manuscript demonstrates the complete process of reverse engineering a proprietary electrophysiological format on the example of microneurography data collected for studies on pain and itch signaling in peripheral neural fibers.
+
+Citation: Konradi P, Troglio A, Pérez Garriga A, Pérez Martín A, Röhrig R, Namer B and Kutafina E (2023) PyDapsys: an open-source library for accessing electrophysiology data recorded with DAPSYS. Front. Neuroinform. 17:1250260. doi: 10.3389/fninf.2023.1250260
+
+Code: [Link](https://github.com/Digital-C-Fiber/PyDapsys) 
+
+##
+
+
+
+##  Analysis of the Research Infrastructure Needs in Emerging Interdisciplinary Consortia
+File: [Link](https://zenodo.org/records/16736006)
+
+License: Creative Commons Attribution 4.0 International
+
+Comment: NFDI4Health pilot project
 
